@@ -1,7 +1,7 @@
-                     # hey im lilly
+# hey im lilly
 
 
-                she/her 15 i code random things!
+she/her 15 i code random things!
 
  - spigotmc: https://www.spigotmc.org/members/zyrela.2146751/
  - discord: zyrela (634138161102192687)
